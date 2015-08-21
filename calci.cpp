@@ -1,6 +1,5 @@
 Hi,This is a calci program
 operation perform using calci
-addition 
-substraction
-multiplication
+logrithmic
+tregnometric functions 
 thank youn for using this calci program
